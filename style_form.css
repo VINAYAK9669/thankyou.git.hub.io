@@ -1,0 +1,89 @@
+	h1
+		{
+			color:rgb(23 18 20);
+			font-family: 'Courier New', Courier, monospace;
+			background-color: rgb(104, 173, 139);
+			text-align: center;
+		}
+
+		h2
+		{
+			color: #fbfbfe;
+			font-family: 'Courier New', Courier, monospace;
+		}
+		p
+		{
+			text-align : justify;
+			font-family: 'Courier New', Courier, monospace;
+			color:#fbfbfe;
+		
+
+		}
+		#same
+		{
+			font-family: 'Courier New', Courier, monospace;
+			color: #fbfbfe;
+			
+			
+		}
+	.bg
+	{
+		background:rgba(0, 57, 70, 0.33) url("https://th.bing.com/th/id/R.9d019a1c185b58e86c881351da39e2c8?rik=dbxBRy8pY%2fnQhQ&riu=http%3a%2f%2fwww.wrbh.org%2fwp-content%2fuploads%2f2015%2f06%2fBooks2.jpg&ehk=pv52Kd3IlgKH%2bN9SNsFgaiY0DLUIzbJr3PSstpneRo8%3d&risl=&pid=ImgRaw&r=0");
+		background-size: cover;
+		background-blend-mode: darken;
+		
+
+	}
+	.GREEN
+	{
+		font-style:'Courier New', Courier, monospace;
+		font-size: medium;
+		color: #fbfbfe;
+		background-color:rgba(60, 61, 84,1);
+		
+	}
+	#image {
+		height: 200px;
+		width: 200px;
+		background: url("https://i.pinimg.com/736x/e5/ec/6f/e5ec6ffbc46808332bce69513c31a2e0--loneliness-vector-graphics.jpg");
+		background-size: 200px 200px;
+		margin-left: auto;
+  		margin-right: auto;
+	  }
+	  #whitebg
+	  {
+		font-style:'Courier New', Courier, monospace;
+		font-size: medium;
+		color: #f0f0f7;
+		background-color:rgba(2, 19, 73, 0.48);
+	  }
+	.instructions
+	{	color:black;
+		text-align: justify;
+		font-family:'Courier New', Courier, monospace;
+	}
+	#red
+	{
+		color:#971f1f;
+	}
+	#red1
+	{
+		color:red;
+	}
+	#blue
+	{
+		color:blue;
+	}
+	#personal
+	{
+		background-color: antiquewhite;
+	}
+	.textcolor
+	{
+		color:#90b7e7f5;
+		font-size: Medium;
+		font-family: 'Courier New', Courier, monospace;
+		background-color: rgb(60 61 84);
+	}
+		
+	
